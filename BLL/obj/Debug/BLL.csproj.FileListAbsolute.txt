@@ -1,0 +1,10 @@
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\BLL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\BLL.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\DAL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\Model.dll
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\Maticsoft.DBUtility.dll
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\DAL.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\bin\Debug\Model.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\obj\Debug\BLL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\BLL\obj\Debug\BLL.pdb

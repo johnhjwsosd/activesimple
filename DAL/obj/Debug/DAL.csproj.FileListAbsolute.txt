@@ -1,0 +1,7 @@
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\bin\Debug\DAL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\bin\Debug\DAL.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\bin\Debug\Model.dll
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\bin\Debug\Model.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\obj\Debug\DAL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\DAL\obj\Debug\DAL.pdb

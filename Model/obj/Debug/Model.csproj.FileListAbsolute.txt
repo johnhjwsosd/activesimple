@@ -1,0 +1,4 @@
+D:\杂文件\C#\sjactive\sanjiangactive\Model\bin\Debug\Model.dll
+D:\杂文件\C#\sjactive\sanjiangactive\Model\bin\Debug\Model.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\Model\obj\Debug\Model.dll
+D:\杂文件\C#\sjactive\sanjiangactive\Model\obj\Debug\Model.pdb

@@ -1,0 +1,17 @@
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\sanjiangactive.exe.config
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\sanjiangactive.exe
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\sanjiangactive.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\BLL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\Model.dll
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\DAL.dll
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\Maticsoft.DBUtility.dll
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\BLL.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\Model.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\bin\Debug\DAL.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.csprojResolveAssemblyReference.cache
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.Properties.Resources.resources
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.csproj.GenerateResource.Cache
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.exe
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.pdb
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.Form1.resources
+D:\杂文件\C#\sjactive\sanjiangactive\sanjiangactive\obj\Debug\sanjiangactive.Form2.resources
